@@ -1,14 +1,16 @@
 {
+  "engines":{
+      "node":"22.14.0"
+  },
   "name": "majorproject",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cloudinary": "^1.30.0",
     "connect-flash": "^0.1.1",
@@ -26,5 +28,15 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minalpatil24/MajorProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minalpatil24/MajorProject/issues"
+  },
+  "homepage": "https://github.com/minalpatil24/MajorProject#readme",
+  "description": ""
 }
