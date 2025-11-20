@@ -1,3 +1,4 @@
+
 # Airbnb Clone – Full Stack Project
 
 This is a *full-stack Airbnb clone* that replicates core functionalities of the popular vacation rental platform. Users can browse property listings and view details in an interactive UI.
@@ -18,4 +19,15 @@ This is a *full-stack Airbnb clone* that replicates core functionalities of the 
 ## How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/airbnb-clone.git
+git clone https://github.com/minalpatil24/MajorProject.git
+
+2. Install dependencies
+-   cd airbnb-clone
+
+3. Run the backend server
+-  npm start
+
+4. Open your browser at
+-  http://localhost:3000
+
+## Live Demo: https://majorproject-pxqz.onrender.com
