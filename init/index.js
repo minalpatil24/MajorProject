@@ -27,7 +27,6 @@
 //     console.log(" data was initialized");
 // };
 
-// // 👉 Make sure this line is UNCOMMENTED
 // initDB();
 
 //  Step 1: Load environment variables correctly
